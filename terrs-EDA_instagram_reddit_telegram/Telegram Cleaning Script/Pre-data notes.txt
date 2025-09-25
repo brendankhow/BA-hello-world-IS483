@@ -1,0 +1,12 @@
+SMU Confess text formats
+
+Pre-text
+#studiesâœðŸ¼  END
+#adviceðŸ—£ï¸  END
+#randomâœ¨  END
+#loveâ¤ï¸  END
+#campusðŸ›  END
+#rantðŸ¤¬  END
+
+Post-text
+#L08130034 | SMU Confess Channel |  Post confession To post an ad fill up this form <3 Be kind.

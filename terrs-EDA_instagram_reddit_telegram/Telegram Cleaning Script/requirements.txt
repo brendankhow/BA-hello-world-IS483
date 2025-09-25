@@ -1,0 +1,14 @@
+# Telegram Data Transformer - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data manipulation and analysis
+pandas>=2.0.0
+
+# OpenAI API for AI-powered summaries (optional)
+openai>=1.0.0
+
+# Core dependencies (usually included with Python)
+# typing - for type hints (Python 3.5+)
+# re - for regular expressions (built-in)
+# time - for delays and timing (built-in)
+# logging - for logging functionality (built-in)
